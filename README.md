@@ -27,7 +27,7 @@ Welcome to **Quantum Perl**, a collection of experimental scripts and digital ri
 #### Installation:
 1. **Clone the repository**:
    \`\`\`bash
-   git clone https://github.com/your-username/quantum-perl.git
+   git clone https://github.com/mari-time/quantum-perl.git
    cd quantum-perl
 
 	2.	Make the scripts executable:
